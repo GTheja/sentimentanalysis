@@ -16,7 +16,7 @@ lower_case = text.lower()
 # str1: specifies the list of characters that need to be deleted
 
 # str1 = 'abc' replaced by str2
-# str2 = 'gef'
+# str2 = 'gef'`
 
 cleaned_text = lower_case.translate(str.maketrans('', '', string.punctuation))
 # nlp is analysis of words not sentence thats why tokenization is important.
