@@ -5,3 +5,4 @@ used NLP to predict the sentiments of the text or essay. Used NLTK python librar
 ![alt text](https://github.com/GTheja/sentimentanalysis/blob/master/Figure_1.png)
 
                   results of the sentiment analysis
+![alt text](https://github.com/GTheja/sentimentanalysis/blob/master/Screenshot%202020-08-09%20at%207.40.47%20PM.png)
